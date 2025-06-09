@@ -23,6 +23,12 @@ _Remote, USA — October 2022 – Present_
 
 As a Staff Site Reliability Engineer at Mosaic, I spearhead key initiatives to enhance our platform's stability and efficiency. I led the successful migration to EKS, cut our cloud costs by 50%, and significantly boosted service availability. I lead our CI/CD and infrastructure architecture and actively contribute to the health and security of our services. Collaborating with the application architecture committee, I help design and approve reference architectures. Currently, I'm leading the development of our internal developer platform, aiming to streamline self-service golden paths for our engineering teams.
 
+**Key Projects & Accomplishments:**
+- EKS Migration with Karpenter Autoscaling
+- API Gateway modernization w/ NGINX & ingress-nginx
+- Platform engineering - self-service portal for engineers
+- CI/CD for secure SLDC workflows
+
 ---
 
 ### **Panzura** — *Senior Cloud Platform Engineer*  
@@ -35,12 +41,8 @@ Working to improve the DevOps culture at Panzura by integrating tooling and poli
 ### **Vology** — *Cloud Systems Engineer*  
 _Clearwater, FL — November 2016 – April 2020_
 
-- Designed and migrated customer IT infrastructure to public cloud.
-- Conducted cloud readiness assessments and migration planning.
-
-**Key Projects & Accomplishments:**
-- On-prem to Azure IaaS migrations
-- Azure infrastructure buildouts
+- Designed and migrated customer IT infrastructure to public cloud
+- Conducted cloud readiness assessments and migration planning
 - Palo Alto and FortiGate firewalls in Azure
 - Reference architectures for Azure offerings
 - Colocation upgrades to Simplivity HCI and Nimble Storage
