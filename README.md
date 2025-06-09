@@ -1,5 +1,7 @@
 # Richard Lombano
 
+#### Location - Remote, USA
+
 ## Summary
 
 Experienced Site Reliability Engineer with a focus on GitOps and demonstrated history of building secure, reliable platforms. Working to enable Product teams with SRE practices and DevOps culture. I strongly believe in the ‘shift left’ mentality and working to enable teams wherever possible.
