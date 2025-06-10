@@ -2,11 +2,10 @@
 
 #### Location - Remote, USA
 
+
 ## Summary
 
 Experienced Site Reliability Engineer with a focus on GitOps and demonstrated history of building secure, reliable platforms. Working to enable Product teams with SRE practices and DevOps culture. I strongly believe in the ‘shift left’ mentality and working to enable teams wherever possible.
-
----
 
 ## Skills
 
@@ -15,8 +14,6 @@ Experienced Site Reliability Engineer with a focus on GitOps and demonstrated hi
 - GCP / AWS / Azure
 - CI/CD Pipelines
 - Observability
-
----
 
 ## Job History
 
@@ -82,7 +79,7 @@ _Port Richey, FL — January 2011 – April 2014_
 - Maintained routers, access points, servers, and switches.
 - Managed uptime for hosted web services.
 
----
+
 
 ## Experience
 
@@ -93,7 +90,7 @@ _Port Richey, FL — January 2011 – April 2014_
 - **5 years** – Agile Methodologies  
 - **3 years** – Leading a team of three Engineers
 
----
+
 
 ## Certifications
 
@@ -102,7 +99,6 @@ _Port Richey, FL — January 2011 – April 2014_
 - CompTIA Project+  
 - Palo Alto ACE  
 
----
 
 ## Education
 
@@ -110,7 +106,7 @@ _Port Richey, FL — January 2011 – April 2014_
 _Associate of Arts_  
 Port Richey, FL — August 2010 – December 2013  
 
----
+
 
 ## Honors & Awards
 
