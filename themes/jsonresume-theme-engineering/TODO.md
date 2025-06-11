@@ -1,0 +1,1 @@
+- switch from resume-cli to https://github.com/rbardini/resumed

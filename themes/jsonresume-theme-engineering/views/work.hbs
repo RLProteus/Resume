@@ -1,0 +1,23 @@
+{{#if resume.work.length}}
+<section id="work">
+    <h2>Work Experience</h2>
+    {{#each resume.work}}
+    <div class="work-item">
+        {{#> item title=(getValueIfDiffFromPrevious @root.resume.work @index "name") subtitle=position location=location startDate=startDate endDate=endDate startDate2=startDate2 endDate2=endDate2}}
+        {{#if summary}}
+        <div class="summary">
+            <p>{{{summary}}}</p>
+        </div>
+        {{/if}}
+        {{#if highlights.length}}
+        <ul class="highlights">
+            {{#each highlights}}
+            <li>{{{.}}}</li>
+            {{/each}}
+        </ul>
+        {{/if}}
+        {{/item}}
+    </div>
+    {{/each}}
+</section>
+{{/if}}
