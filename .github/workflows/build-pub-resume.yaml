@@ -27,8 +27,10 @@ jobs:
           npm install ./themes/jsonresume-theme-elegant
           npm install ./themes/jsonresume-theme-engineering 
 
-      - name: Build the resume
+      - name: Build HTML resume
         run: resume export --resume ./resume.json --theme elegant --format html ./docs/index.html
+      - name: Build PDF resume
+        run: resume export --resume ./resume.json --theme jsonresume-theme-engineering --format pdf ./docs/resume.pdf
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
