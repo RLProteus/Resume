@@ -203,8 +203,14 @@
       "startDate": "2019-01-01",
       "endDate": "present",
       "description": "An agentic AI chatbot designed to work with an IRC channel.",
-
       "url": "https://github.com/RLProteus/CloudBot/blob/main/plugins/ai_assistant.py"
+    },
+    {
+      "name": "Resume Pipeline",
+      "startDate": "2025-06-09",
+      "endDate": "present",
+      "description": "A simple pipeline to generate my resume in various formats using the popular project, JSON Resume. This allows me to keep my resume up to date with minimal effort and ensure it's consistant across all platforms.",
+      "url": "https://github.com/RLProteus/Resume"
     }
   ]
 }
