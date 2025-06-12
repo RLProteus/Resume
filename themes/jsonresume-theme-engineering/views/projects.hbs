@@ -1,0 +1,15 @@
+{{#if resume.projects.length}}
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project-item">
+        {{#> item title=resume.projects.1.name subtitle=resume.projects.1.url }}
+        {{#if resume.projects.1.description}}
+        <div class="description">
+            <p>{{{resume.projects.1.description}}}</p>
+        </div>
+        {{/if}}
+        {{/item}}
+    </div>   
+    <div><p>For a more up-to-date list of projects, please visit my website at {{wrapURL resume.basics.website}}</p></div>
+</section>
+{{/if}}
