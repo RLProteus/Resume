@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - docs/**
+      - resume.json
+      - themes/**
 
 jobs:
   build:
