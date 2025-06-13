@@ -59,8 +59,7 @@
       "endDate": "2020-04",
       "highlights": [
         "Designed and migrated customer IT infrastructure to public cloud",
-        "Reference architectures for Azure offerings",
-        "Colocation upgrades to Simplivity HCI and Nimble Storage"
+        "Reference architectures for Azure offerings"
       ]
     },
     {
@@ -71,8 +70,7 @@
       "endDate": "2016-11",
       "summary": "Managed post-acquisition IT setup and built secure infrastructure and workflows.",
       "highlights": [
-        "Windows Server infrastructure design",
-        "SSL VPN with 2FA & RDP Web remote access"
+        "Windows Server infrastructure design"
       ]
     },
     {
