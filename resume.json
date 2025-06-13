@@ -173,6 +173,15 @@
       ]
     },
     {
+      "name": "Software Engineering",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "SDLC workflows",
+        "Build & Release"
+      ]
+    },
+    {
       "name": "Leadership & Agile",
       "level": "Master",
       "keywords": [
