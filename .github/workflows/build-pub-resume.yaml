@@ -33,8 +33,6 @@ jobs:
       - name: make docs directory
         run: mkdir -p docs
 
-      - name: Build HTML resume
-        run: resume export --resume ./resume.json --theme elegant --format html ./docs/index.html
       - name: Build PDF resume
         run: resume export --resume ./resume.json --theme jsonresume-theme-engineering --format pdf ./docs/resume.pdf
 
