@@ -1,0 +1,17 @@
+{{#if resume.certificates.length}}
+<section id="certificates">
+    <h2>Certifications</h2>
+    <ul class="item">
+        {{#each resume.certificates}}
+        <li>
+            {{#if name}}
+            {{#if issuer}}
+            <strong>{{issuer}}</strong>: {{{name}}}
+            {{/if}}
+            {{/if}}
+
+        </li>
+        {{/each}}
+    </ul>
+</section>
+{{/if}}
